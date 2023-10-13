@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Coding\\Software\\Python\\CIF_PY\\CIF_model.tflearn"
+all_model_checkpoint_paths: "D:\\Coding\\Software\\Python\\CIF_PY\\CIF_model.tflearn"
